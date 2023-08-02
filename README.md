@@ -1,3 +1,3 @@
 # Go App
 
-v1
+Version: v1
